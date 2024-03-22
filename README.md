@@ -164,6 +164,9 @@ Estou usando o padrão SAGA de coreografia com o Kafka em três serviços: Pedid
 
 ![screenshot](/images/saga.png)
 
+Vídeo explicação SAGA: https://drive.google.com/file/d/1hl50zhNwh6xavo9BZHReaaazgVUb8UAL/view
+Youtube: https://youtu.be/8Qv_ctCRSvE
+
 ## Link OWASP ZAP
 
 https://drive.google.com/drive/folders/1Ku1gZSvSISKbuN28j3_3Zm04C2y1zYQp?usp=sharing
