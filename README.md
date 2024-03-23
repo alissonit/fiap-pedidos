@@ -189,3 +189,9 @@ https://github.com/alissonit/fiap-producao-iac-ecs/actions/runs/8350922073/job/2
 ECS-PAGAMENTO
 
 https://github.com/alissonit/fiap-pagamento/actions/runs/8347692011/job/22848065559
+
+### Desenho da Solução na Cloud:
+
+![screenshot](/images/fiap.drawio.png)
+
+### Video demonstrando execução da aplicação: https://www.loom.com/share/317ef975654941029c9333d33066bf54?sid=ea679a2d-6983-4ffc-a539-0d0c440a1f44
